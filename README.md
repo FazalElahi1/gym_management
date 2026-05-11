@@ -83,11 +83,9 @@ cd gym_management
 ```
 
 ### Install Dependencies
-
 ```bash
 pip install pandas
 ```
-
 ---
 
 ## Running the Project
