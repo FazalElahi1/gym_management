@@ -74,12 +74,7 @@ Shows complete member database using Pandas DataFrame.
 ---
 
 ## Installation
-
-### Clone Repository
-
-```bash
-git clone https://github.com/FazalElahi1/gym_management.git
-```
+`
 
 ### Navigate to Project Directory
 
